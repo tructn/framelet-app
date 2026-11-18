@@ -1,6 +1,9 @@
 # Framelet Studio
 
-Public pages for [Framelet Studio](https://tructn.github.io/framelet-app/), a photo browser for the Mac.
+Redirects for the old [Framelet Studio](https://tructn.github.io/framelet-studio/) URLs under `/framelet-app/`. The pages themselves live in [tructn.github.io](https://github.com/tructn/tructn.github.io) (`apps/framelet-studio/`).
 
-- Privacy Policy: https://tructn.github.io/framelet-app/privacy/
-- Support: https://tructn.github.io/framelet-app/support/
+- `/framelet-app/` → https://tructn.github.io/framelet-studio/
+- `/framelet-app/privacy/` → https://tructn.github.io/framelet-studio/privacy/
+- `/framelet-app/support/` → https://tructn.github.io/framelet-studio/support/
+
+Keep this repo's Pages site on: it owns the `/framelet-app/` path, so the old links reach these redirects.
